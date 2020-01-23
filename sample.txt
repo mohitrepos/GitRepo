@@ -1,2 +1,4 @@
 all files in this folder will be deleted.
-
+a1 = 100
+b1 = 200
+c = a1+b1
